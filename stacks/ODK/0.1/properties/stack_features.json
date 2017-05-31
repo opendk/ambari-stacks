@@ -1,0 +1,10 @@
+{
+  "stack_features": [
+    {
+      "name": "snappy",
+      "description": "Snappy compressor/decompressor support",
+      "min_version": "0.0.0.0",
+      "max_version": "0.2.0.0"
+    }
+  ]
+}
